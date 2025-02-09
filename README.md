@@ -47,4 +47,4 @@ Cryptoplace is a web application that allows users to view the current rates of 
 - [CoinGecko API](https://www.coingecko.com/en/api) for providing the cryptocurrency data.
 
 ## Live Website
-https://cryptoplace-weld.vercel.app/
+https://crypto-seven-sigma.vercel.app/
